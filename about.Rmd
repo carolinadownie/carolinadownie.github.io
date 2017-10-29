@@ -1,9 +1,84 @@
 ---
-title: "About"
+title: "Carolina Downie"
 ---
 
-### About this site
+#EDUCATION
 
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
+Columbia University Mailman School of Public Health, New York, NY
+MPH in Epidemiology, Certificate in Applied Biostatistics May 2018
 
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+* Relevant coursework: Analysis of Categorical Variables, Design and Conduct of Observational Epidemiology, Application of Epidemiological Research Methods 
+
+Stanford University, Stanford, CA
+BS with Honors in Biology June 2016
+
+* Notation in Science Communication, with Distinction- program in which students develop their abilities to communicate technical and scientific information to a variety of audiences, culminating in the production of an [ePortfolio](http://bit.ly/29VD2EC). 
+
+
+#RESEARCH EXPERIENCE
+
+Health Research Training Program (HRTP) Graduate Intern	
+Bureau of Mental Health, New York City Department of Health and Mental Hygiene
+July 2017 – present
+
+* Analyze large syndromic surveillance datasets in R to monitor increases in mental health-related emergency room visits and identify spatiotemporal trends. 
+
+* Develop codebook and data dictionary for a large dataset from NYC WELL, a confidential mental health support and crisis hotline, so that data can be implemented in future syndromic surveillance projects. 
+
+Undergraduate Research Assistant 
+Seung Kim Biology Laboratory, Stanford University
+January 2014 – June 2016
+
+* Performed independent research on type 1 and type 2 diabetic pancreas samples using biological research techniques including qPCR, immunohistochemistry, and confocal microscopy, leading to the production of an Honors thesis and figures in a publication 
+
+* Collaborated with graduate students, postdoctoral scholars, and other undergraduates to conduct research and analyze data on mice and human pancreas samples 
+
+* Developed and improved protocols for procedures performed in the lab for isolating pancreatic islet cells
+
+#HEALTH EDUCATION EXPERIENCE
+Peer Health Educator, Murray Dormitory, Stanford University
+August 2015 – June 2015
+
+* Promoted healthy behavior amongst a diverse group of undergraduate students through regular dorm and community events 
+
+* Engaged with other dorm leadership staff to improve the well-being and safety of the dorm 
+
+Flu Crew Undergraduate Coordinator, Stanford University		   
+August 2015-October 2015
+
+* Worked closely with medical students and undergraduate volunteers to facilitate and promote free influenza vaccination clinics on Stanford campus
+
+Outreach Volunteer, Pacific Free Clinic, Stanford University 			
+June 2014-June 2015
+
+* Provided health screening services, including blood pressure and height/weight measurements at health fairs, community, religious centers to diverse patient populations
+
+Lab Assistant Volunteer, Pacific Free Clinic, Stanford University		
+June 2014-June 2015
+
+* Helped provide healthcare services to underserved populations 
+
+
+#OTHER ACTIVITIES
+
+President of Complex Systems Approaches to Population Health student organization,
+Mailman School of Public Health
+January 2017-present
+
+*Collaborate with other MPH students to facilitate workshops and seminars related to systems thinking approaches to public health	
+
+Family Sundays Ambassador, Iris & B. Gerald Cantor Center for Visual Arts, 
+Stanford University 								
+January 2014-June 2016
+
+* Worked with a team of undergraduate and high school volunteers to facilitate activities for children and their families
+
+
+#PUBLICATIONS 
+[Chakravarthy et al., Converting Adult Pancreatic Islet  Cells into  Cells by Targeting Both Dnmt1 and Arx, Cell Metabolism (2017)](http://dx.doi.org/10.1016/j.cmet.2017.01.009)
+
+#SKILLS AND CERTIFICATIONS
+Computer: R, SAS, SQL, Microsoft Word, Excel, Powerpoint, 
+Languages: English, Spanish (basic knowledge)
+Certifications: HIPPA, CITI Human Subjects
+
