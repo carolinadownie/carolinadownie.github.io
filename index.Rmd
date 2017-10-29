@@ -4,6 +4,6 @@ title: "Carolina Downie"
 
 ###About Me
 
-I am an Epidemiology MPH candidate at the Mailman School of Public Health (class of 2018). I'm interested in epidemiological methods, public health surveillance, and chronic disease. Learn more about me [here][about.html]. 
+I am an Epidemiology MPH candidate at the Mailman School of Public Health (class of 2018). I'm interested in epidemiological methods, public health surveillance, and chronic disease. Learn more about me [here](about.html). 
 
 

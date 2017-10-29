@@ -2,20 +2,22 @@
 title: "Carolina Downie"
 ---
 
-#EDUCATION
+#Education
 
 Columbia University Mailman School of Public Health, New York, NY
+
 MPH in Epidemiology, Certificate in Applied Biostatistics May 2018
 
 * Relevant coursework: Analysis of Categorical Variables, Design and Conduct of Observational Epidemiology, Application of Epidemiological Research Methods 
 
 Stanford University, Stanford, CA
+
 BS with Honors in Biology June 2016
 
 * Notation in Science Communication, with Distinction- program in which students develop their abilities to communicate technical and scientific information to a variety of audiences, culminating in the production of an [ePortfolio](http://bit.ly/29VD2EC). 
 
 
-#RESEARCH EXPERIENCE
+#Research Experience
 
 Health Research Training Program (HRTP) Graduate Intern	
 Bureau of Mental Health, New York City Department of Health and Mental Hygiene
@@ -35,7 +37,7 @@ January 2014 – June 2016
 
 * Developed and improved protocols for procedures performed in the lab for isolating pancreatic islet cells
 
-#HEALTH EDUCATION EXPERIENCE
+#Health Promotion Experience
 Peer Health Educator, Murray Dormitory, Stanford University
 August 2015 – June 2015
 
@@ -59,13 +61,13 @@ June 2014-June 2015
 * Helped provide healthcare services to underserved populations 
 
 
-#OTHER ACTIVITIES
+#Other Activities
 
 President of Complex Systems Approaches to Population Health student organization,
 Mailman School of Public Health
 January 2017-present
 
-*Collaborate with other MPH students to facilitate workshops and seminars related to systems thinking approaches to public health	
+* Collaborate with other MPH students to facilitate workshops and seminars related to systems thinking approaches to public health	
 
 Family Sundays Ambassador, Iris & B. Gerald Cantor Center for Visual Arts, 
 Stanford University 								
@@ -74,10 +76,12 @@ January 2014-June 2016
 * Worked with a team of undergraduate and high school volunteers to facilitate activities for children and their families
 
 
-#PUBLICATIONS 
+#Publications
+
 [Chakravarthy et al., Converting Adult Pancreatic Islet  Cells into  Cells by Targeting Both Dnmt1 and Arx, Cell Metabolism (2017)](http://dx.doi.org/10.1016/j.cmet.2017.01.009)
 
-#SKILLS AND CERTIFICATIONS
+#Skills and Certifications
+
 Computer: R, SAS, SQL, Microsoft Word, Excel, Powerpoint, 
 Languages: English, Spanish (basic knowledge)
 Certifications: HIPPA, CITI Human Subjects
